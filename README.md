@@ -11,9 +11,13 @@
 - 🤔 I'm looking for help - Learning Algorithms, design patterns, solid principles, & data structure.
 - 💬 Ask me about - Anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - 🥅 2021 Goal - Finding an internship while looking for a scholarship to study computer science abroad.
+- Frontend Stack Enthusiast 🌐  
+- Loves to Code 👨‍💻  
+- Hobbies - Workout 🏋️‍♂️ & Reading 📖 & Photography 📸 & Meditation 🧘‍♂️  
 - ⚡ Fun facts: <br> - I enjoy learning a new languages, I'm currently learning Deutsch. <br> - I'd love to learn how to create potteries. 
 <!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
 <!-- - 😄 Pronouns: ... -->
+<!-- - Artificial Intelligence and Machine Learning 😍 ♥   -->
 
 <hr>
 
