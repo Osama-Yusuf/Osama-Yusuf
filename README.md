@@ -10,7 +10,8 @@
 - 👯 I’m looking to collaborate with - Other developers in community
 - 🤔 I’m looking for help finding an internship while looking for a scholarship to study computer science abroad.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄
+- ⚡ Fun fact: I enjoy learning a new languages, I'm currently learning Deutsch, i'd love to learn how to create potteries. 
+- <!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
 <!-- - 😄 Pronouns: ... -->
 
 ## **📫 How to reach me**
