@@ -24,10 +24,6 @@
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
             alt="Osama's StackOverflow">
     </a>
-<!--     <a href="https://profile.codersrank.io">
-        <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
-            alt="Osama's CodersRank">
-    </a> -->
     <a href="https://www.linkedin.com/in/osama--youssef>
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Osama's LinkedIn">
@@ -44,12 +40,18 @@
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
             alt="Osama's dev.to">
     </a>
+  <!--
+     <a href="https://profile.codersrank.io">
+        <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
+            alt="Osama's CodersRank">
+    </a> 
+      -->
 </div>
                                     
 ---
 
 <br>
 
-_Made with a lot of ❤️ by **[@Osama-Yusuf](https://github.com/Osama-Yusuf)**_
+_Made by **[@Osama-Yusuf](https://github.com/Osama-Yusuf)**_
                                     
 <!-- **Osama-Yusuf/Osama-Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
