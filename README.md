@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with - Other developers in community
 - 🤔 I’m looking for help finding an internship while looking for a scholarship to study computer science abroad.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄
 
 ## **📫 How to reach me**
@@ -50,6 +50,6 @@
 
 <br>
 
-_Made with a lot of ❤️❤️ by **[@Osama-Yusuf](https://github.com/Osama-Yusuf)**_
+_Made with a lot of ❤️ by **[@Osama-Yusuf](https://github.com/Osama-Yusuf)**_
                                     
 <!-- **Osama-Yusuf/Osama-Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
