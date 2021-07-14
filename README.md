@@ -20,27 +20,27 @@
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Osama's Gmail">
     </a>
-    <a target="_blank" href="https://stackoverflow.com/users/14504222/osama-mohamed">
+    <a href="https://stackoverflow.com/users/14504222/osama-mohamed" target="_blank" >
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
             alt="Osama's StackOverflow">
     </a>
-    <a target="_blank" href="https://www.linkedin.com/in/osama--youssef>
+    <a href="https://www.linkedin.com/in/osama--youssef" target="_blank" >
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Osama's LinkedIn">
     </a>
-    <a target="_blank" href="https://discord.gg/nZ5jNUm9SS">
+    <a href="https://discord.gg/nZ5jNUm9SS" target="_blank" >
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
             alt="Osama's discord">
     </a>
-    <a target="_blank" href="https://octolife.vercel.app/Osama-Yusuf">
+    <a href="https://octolife.vercel.app/Osama-Yusuf" target="_blank" >
         <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
             alt="Osama's octolife">
     </a>
-    <a target="_blank" href="https://dev.to/osamayusuf">
+    <a href="https://dev.to/osamayusuf" target="_blank" >
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
             alt="Osama's dev.to">
     </a>
-     <a target="_blank" href="https://profile.codersrank.io/user/osama-yusuf/">
+     <a href="https://profile.codersrank.io/user/osama-yusuf/" target="_blank" >
         <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
             alt="Osama's CodersRank">
     </a> 
