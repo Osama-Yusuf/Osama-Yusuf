@@ -19,6 +19,8 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - Artificial Intelligence and Machine Learning 😍 ♥   -->
 
+<hr>
+
 ## **📊 Stats**
 
  <div align="center" style="text-align:center">
@@ -37,13 +39,12 @@
 </div>
 
 <!-- https://github-readme-stats.vercel.app/api/wakatime?username=osama_yusuf&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats -->
- 
- <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Osama-Yusuf&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Osama-Yusuf&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight)]() -->
+
 <hr>
 
 ## **📫 How to reach me**
-
 <div align="center" style="text-align:center">
     <a target="_blank" href="mailto:osama9mohamed5@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
