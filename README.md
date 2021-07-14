@@ -16,31 +16,31 @@
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
-    <a href="mailto:osama9mohamed5@gmail.com">
+    <a target="_blank" href="mailto:osama9mohamed5@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Osama's Gmail">
     </a>
-    <a href="https://stackoverflow.com/users/14504222/osama-mohamed">
+    <a target="_blank" href="https://stackoverflow.com/users/14504222/osama-mohamed">
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
             alt="Osama's StackOverflow">
     </a>
-    <a href="https://www.linkedin.com/in/osama--youssef>
+    <a target="_blank" href="https://www.linkedin.com/in/osama--youssef>
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Osama's LinkedIn">
     </a>
-    <a href="https://discord.gg/nZ5jNUm9SS">
+    <a target="_blank" href="https://discord.gg/nZ5jNUm9SS">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
             alt="Osama's discord">
     </a>
-    <a href="https://octolife.vercel.app/Osama-Yusuf">
+    <a target="_blank" href="https://octolife.vercel.app/Osama-Yusuf">
         <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
             alt="Osama's octolife">
     </a>
-    <a href="https://dev.to/osamayusuf">
+    <a target="_blank" href="https://dev.to/osamayusuf">
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
             alt="Osama's dev.to">
     </a>
-     <a href="https://profile.codersrank.io/user/osama-yusuf/">
+     <a target="_blank" href="https://profile.codersrank.io/user/osama-yusuf/">
         <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
             alt="Osama's CodersRank">
     </a> 
