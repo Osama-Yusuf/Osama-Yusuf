@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Osama's Gmail">
     </a>
-    <a href="https://stackoverflow.com/users/14504222/osama-mohamed" target="_blank" >
+    <a target="blank" href="https://stackoverflow.com/users/14504222/osama-mohamed" target="_blank" >
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
             alt="Osama's StackOverflow">
     </a>
