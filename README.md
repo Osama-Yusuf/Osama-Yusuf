@@ -1,4 +1,4 @@
-# Hi there, I'm **Osama Yusuf**! 👋
+# Hi there, I'm **Osama Yusuf**! <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  A Frontend web developer, An independent and Self-motivated Passionate learner 🧑
 
 ---
@@ -11,9 +11,9 @@
 - 🤔 I'm looking for help - Learning Algorithms, design patterns, solid principles, & data structure.
 - 💬 Ask me about - Anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - 🥅 2021 Goal - Finding an internship while looking for a scholarship to study computer science abroad.
-- Frontend Stack Enthusiast 🌐  
-- Loves to Code 👨‍💻  
-- Hobbies - Workout 🏋️‍♂️ & Reading 📖 & Photography 📸 & Meditation 🧘‍♂️  
+- 🌐 Frontend Stack Enthusiast.  
+- 👨‍💻 Loves to Code.  
+- 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
 - ⚡ Fun facts: <br> - I enjoy learning a new languages, I'm currently learning Deutsch. <br> - I'd love to learn how to create potteries. 
 <!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
 <!-- - 😄 Pronouns: ... -->
@@ -62,24 +62,30 @@
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
             alt="Osama's discord">
     </a>
-    <a href="https://octolife.vercel.app/Osama-Yusuf" target="_blank" >
+    <a href="https://octolife.vercel.app/Osama-Yusuf" target="_blank">
         <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
             alt="Osama's octolife">
     </a>
-    <a href="https://dev.to/osamayusuf" target="_blank" >
+    <a href="https://dev.to/osamayusuf" target="_blank">
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
             alt="Osama's dev.to">
     </a>
-     <a href="https://profile.codersrank.io/user/osama-yusuf/" target="_blank" >
+     <a href="https://profile.codersrank.io/user/osama-yusuf/" target="_blank">
         <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
             alt="Osama's CodersRank">
-    </a> 
+    </a>
+    <a href="https://www.instagram.com/osama_youssf/" target="_blank">
+        <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
+            alt="Osama's CodersRank">
+    </a>
 </div>
                                     
 ---
 
 <br>
 
-_Made by **[@Osama-Yusuf](https://github.com/Osama-Yusuf)**_
-                                    
+_Made by **[@Osama-Yusuf](https://github.com/osama-yusuf)**_
+
+![](https://komarev.com/ghpvc/?username=osama-yusuf&color=red)
+
 <!-- **Osama-Yusuf/Osama-Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
