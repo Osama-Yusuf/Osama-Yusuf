@@ -40,12 +40,10 @@
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
             alt="Osama's dev.to">
     </a>
-  <!--
-     <a href="https://profile.codersrank.io">
+     <a href="https://profile.codersrank.io/user/osama-yusuf/">
         <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
             alt="Osama's CodersRank">
     </a> 
-      -->
 </div>
                                     
 ---
