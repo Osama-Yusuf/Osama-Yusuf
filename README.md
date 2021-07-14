@@ -5,15 +5,22 @@
 
 ## **😊 About me**
 
-- 🔭 I’m currently working on a [To Do List](https://osama-yusuf.github.io/) Web Application & E-Commerce Pottery website 
-- 🌱 I’m currently learning Vue.js, Node.js and API
+- 🔭 I’m currently working on - A [To Do List](https://osama-yusuf.github.io/) Web Application & E-Commerce Pottery website 
+- 🌱 I’m currently learning - Vue.js, Node.js and API
 - 👯 I’m looking to collaborate with - Other developers in community
-- 🤔 I'm looking for help learning Algorithms, design patterns, solid principles, & data structure.
-- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
+- 🤔 I'm looking for help - Learning Algorithms, design patterns, solid principles, & data structure.
+- 💬 Ask me about - Anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - 🥅 2021 Goal - Finding an internship while looking for a scholarship to study computer science abroad.
 - ⚡ Fun facts: <br> - I enjoy learning a new languages, I'm currently learning Deutsch. <br> - I'd love to learn how to create potteries. 
 <!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
 <!-- - 😄 Pronouns: ... -->
+
+<hr>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Osama-Yusuf&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight)]()
+
+<hr>
 
 ## **📫 How to reach me**
 
