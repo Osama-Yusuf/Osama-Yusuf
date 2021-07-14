@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with - Other developers in community
 - 🤔 I'm looking for help learning Algorithms, design patterns, solid principles, & data structure.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- 🥅 2021 Goal - finding an internship while looking for a scholarship to study computer science abroad.
+- 🥅 2021 Goal - Finding an internship while looking for a scholarship to study computer science abroad.
 - ⚡ Fun facts: <br> - I enjoy learning a new languages, I'm currently learning Deutsch. <br> - I'd love to learn how to create potteries. 
 <!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
 <!-- - 😄 Pronouns: ... -->
