@@ -5,7 +5,7 @@
 
 ## **😊 About me**
 
-- 🔭 I’m currently working on a "To do list" Web Application & E-Commerce Pottery website 
+- 🔭 I’m currently working on a [To Do List](https://osama-yusuf.github.io/) Web Application & E-Commerce Pottery website 
 - 🌱 I’m currently learning Vue.js, Node.js and API
 - 👯 I’m looking to collaborate with - Other developers in community
 - 🤔 I'm looking for help learning Algorithms, design patterns, solid principles, & data structure.
