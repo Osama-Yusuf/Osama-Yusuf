@@ -19,11 +19,27 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - Artificial Intelligence and Machine Learning 😍 ♥   -->
 
-<hr>
+## **📊 Stats**
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Osama-Yusuf&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight)]()
+ <div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Osama-Yusuf&show_icons=true&theme=monokai&count_private=true"
+            alt="Osama-Yusuf's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Yusuf&theme=monokai"
+            alt="Osama-Yusuf's Github commit streak">
+    </a>
+    <a href="https://wakatime.com/@Osama-Yusuf/">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight"
+            alt="Osama-Yusuf's wakatime last year stats">
+    </a>
+</div>
 
+<!-- https://github-readme-stats.vercel.app/api/wakatime?username=osama_yusuf&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats -->
+ 
+ <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Osama-Yusuf&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight)]() -->
 <hr>
 
 ## **📫 How to reach me**
