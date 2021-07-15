@@ -1,4 +1,4 @@
-# Hi there, I'm **Osama Yusuf**! <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm **Osama Yusuf**! <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
  A Frontend web developer, An independent and Self-motivated Passionate learner 🧑
 
 ---
