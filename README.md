@@ -14,12 +14,15 @@
 - 🌐 Frontend Stack Enthusiast.  
 - 👨‍💻 Loves to Code.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
-- ⚡ Fun facts: <br> - I enjoy learning a new languages, I'm currently learning Deutsch. <br> - I'd love to learn how to create potteries. 
+- ⚡ Fun facts: 
+  - I enjoy learning a new languages, I'm currently learning Deutsch. 
+  - I'd love to learn how to create potteries. 
+
 <!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - Artificial Intelligence and Machine Learning 😍 ♥   -->
 
-<hr>
+---
 
 ## **📊 Stats**
 
@@ -42,41 +45,41 @@
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Osama-Yusuf&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight)]() -->
 
-<hr>
+---
 
 ## **📫 How to reach me**
 <div align="center" style="text-align:center">
-    <a target="_blank" href="mailto:osama9mohamed5@gmail.com">
+    <a href="mailto:osama9mohamed5@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Osama's Gmail">
     </a>
-    <a target="blank" href="https://stackoverflow.com/users/14504222/osama-mohamed" target="_blank" >
-        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
-            alt="Osama's StackOverflow">
-    </a>
-    <a href="https://www.linkedin.com/in/osama--youssef" target="_blank" >
+    <a href="https://www.linkedin.com/in/osama--youssef">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Osama's LinkedIn">
     </a>
-    <a href="https://discord.gg/nZ5jNUm9SS" target="_blank" >
+     <a href="https://www.instagram.com/osama_youssf/">
+        <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
+            alt="Osama's instagram">
+    </a>
+     <a href="https://stackoverflow.com/users/14504222/osama-mohamed">
+        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
+            alt="Osama's StackOverflow">
+    </a>
+     <a href="https://discord.gg/nZ5jNUm9SS">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
             alt="Osama's discord">
     </a>
-    <a href="https://octolife.vercel.app/Osama-Yusuf" target="_blank">
-        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
-            alt="Osama's octolife">
-    </a>
-    <a href="https://dev.to/osamayusuf" target="_blank">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-            alt="Osama's dev.to">
-    </a>
-     <a href="https://profile.codersrank.io/user/osama-yusuf/" target="_blank">
+     <a href="https://profile.codersrank.io/user/osama-yusuf/">
         <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
             alt="Osama's CodersRank">
     </a>
-    <a href="https://www.instagram.com/osama_youssf/" target="_blank">
-        <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
-            alt="Osama's CodersRank">
+     <a href="https://octolife.vercel.app/Osama-Yusuf">
+        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
+            alt="Osama's octolife">
+    </a>
+     <a href="https://dev.to/osamayusuf">
+        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+            alt="Osama's dev.to">
     </a>
 </div>
                                     
