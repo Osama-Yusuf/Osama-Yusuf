@@ -24,6 +24,21 @@
 
 ---
 
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://sass-lang.com/documentation/syntax" target="_blank"> <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"/> </a> 
+    <a href="https://pugjs.org/api/getting-started.html" target="_blank"> <img width="65px" src="https://www.pugjs.cn/images/pugjs.png"/> </a> 
+</p>
+
+---
+
 ## **📊 Stats**
 
  <div align="center" style="text-align:center">
@@ -90,5 +105,6 @@
 _Made by **[@Osama-Yusuf](https://github.com/osama-yusuf)**_
 
 ![](https://komarev.com/ghpvc/?username=osama-yusuf&color=red)
+<a href="https://github.com/osama-yusuf?tab=followers"><img src="https://img.shields.io/github/followers/osama-yusuf?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!-- **Osama-Yusuf/Osama-Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
