@@ -30,11 +30,14 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://sass-lang.com/documentation/syntax" target="_blank"> <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"/> </a> 
+    <a href="https://sass-lang.com/documentation/syntax" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a href="https://pugjs.org/api/getting-started.html" target="_blank"> <img width="65px" src="https://www.pugjs.cn/images/pugjs.png"/> </a> 
+    <a href="https://jquery.com/" target="_blank"> <img width="37px" src="https://th.bing.com/th/id/R.3420e571b3d7a4a348d8fad91e3bfda4?rik=I00IQXt4sQdeMg&riu=http%3a%2f%2fwww.exuberantsolutions.com%2fcourse_logo%2fjquery-icon.png&ehk=XbQJOK2Gm0iFBOpFzOj%2f%2fFzFU3Pl03pskuZTQx%2faxM4%3d&risl=&pid=ImgRaw"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> </a>  
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
 </p>
 
 ---
