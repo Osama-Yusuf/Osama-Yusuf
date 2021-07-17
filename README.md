@@ -3,7 +3,7 @@
 
 ---
 
-## **😊 About me**
+## **🙋‍♂️ About me**
 
 - 🔭 I’m currently working on - A [To Do List](https://osama-yusuf.github.io/) Web Application & E-Commerce Pottery website 
 - 🌱 I’m currently learning - Vue.js, Node.js and API
