@@ -6,17 +6,16 @@
 ## **🙋‍♂️ About me**
 
 - 🔭 I’m currently working on - A [To Do List](https://osama-yusuf.github.io/) Web Application & E-Commerce Pottery website 
-- 🌱 I’m currently learning - Vue.js, Node.js and API
+- 🌱 I’m currently learning - Python & Database,
 - 👯 I’m looking to collaborate with - Other developers in community
-- 🤔 I'm looking for help - Learning Algorithms, design patterns, solid principles, & data structure.
+- 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure.
 - 💬 Ask me about - Anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- 🥅 2021 Goal - Finding an internship while looking for a scholarship to study computer science abroad.
-- 🌐 Frontend Stack Enthusiast.  
+- 🥅 2021 Goal - Finding a scholarship to study computer science abroad.
 - 👨‍💻 Loves to Code.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
 - ⚡ Fun facts: 
-  - I enjoy learning a new languages, I'm currently learning Deutsch. 
-  - I'd love to learn how to create potteries. 
+  - The hobby that I could never give up is photographs.
+  - I speak a little bit German
 
 <!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
 <!-- - 😄 Pronouns: ... -->
