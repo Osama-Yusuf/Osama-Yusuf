@@ -14,7 +14,6 @@
 - 👨‍💻 Loves to Code.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
 - ⚡ Fun facts: 
-  - The hobby that I could never give up is photographs.
   - I speak a little bit German
 
 <!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
