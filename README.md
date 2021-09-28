@@ -5,7 +5,7 @@
 
 ## **🙋‍♂️ About me**
 
-- 🔭 I’m currently working on - A [To Do List](https://osama-yusuf.github.io/) Web Application & E-Commerce Pottery website 
+- 🔭 I’m currently working on - Graduating the AWS re/Start track from ITI 
 - 🌱 I’m currently learning - Python & Database,
 - 👯 I’m looking to collaborate with - Other developers in community
 - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure.
