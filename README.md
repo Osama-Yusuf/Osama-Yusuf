@@ -1,24 +1,18 @@
-# Hi there, I'm **Osama Yusuf**! <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
- A Frontend web developer, An independent and Self-motivated Passionate learner 🧑
+# Hi there, I'm **Osama Youssef**! <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+ A DevOps Engineer, AWS re/Start program graduate - AWS Certified Cloud Practitioner, Eager to expand my knowledge of DevOps tools, and Cloud computing. 🧑
 
 ---
 
 ## **🙋‍♂️ About me**
 
-- 🔭 I’m currently working on - Graduating the AWS re/Start track from ITI 
-- 🌱 I’m currently learning - Python & Database,
+<!-- - 🔭 I’m currently working on - getting a    -->
+<!-- - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure. -->
+- 🌱 I’m currently learning - Terraform, Prometheus & Openshift
 - 👯 I’m looking to collaborate with - Other developers in community
-- 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure.
-- 💬 Ask me about - Anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- 🥅 2021 Goal - Finding a scholarship to study computer science abroad.
-- 👨‍💻 Loves to Code.  
+- 🥅 2022 Goal - Finding a DevOps job opportunity as an Intern or Entry level.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
 - ⚡ Fun facts: 
   - I speak a little bit German
-
-<!-- - ⚡ Fun fact: The first computer “bug” was an actual real-life bug 😄 -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - Artificial Intelligence and Machine Learning 😍 ♥   -->
 
 ---
 
@@ -57,10 +51,6 @@
     </a>
 </div>
 
-<!-- https://github-readme-stats.vercel.app/api/wakatime?username=osama_yusuf&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats -->
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Osama-Yusuf&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight)]() -->
-
 ---
 
 ## **📫 How to reach me**
@@ -81,23 +71,23 @@
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
             alt="Osama's StackOverflow">
     </a>
-     <a href="https://discord.gg/nZ5jNUm9SS">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-            alt="Osama's discord">
-    </a>
-     <a href="https://profile.codersrank.io/user/osama-yusuf/">
-        <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
-            alt="Osama's CodersRank">
-    </a>
      <a href="https://octolife.vercel.app/Osama-Yusuf">
         <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
             alt="Osama's octolife">
     </a>
-     <a href="https://dev.to/osamayusuf">
+<!--      <a href="https://dev.to/osamayusuf">
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
             alt="Osama's dev.to">
     </a>
-</div>
+</div> -->
+<!--      <a href="https://profile.codersrank.io/user/osama-yusuf/">
+        <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
+            alt="Osama's CodersRank">
+    </a> -->
+<!--      <a href="https://discord.gg/nZ5jNUm9SS">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+            alt="Osama's discord">
+    </a> -->
                                     
 ---
 
@@ -107,5 +97,3 @@ _Made by **[@Osama-Yusuf](https://github.com/osama-yusuf)**_
 
 ![](https://komarev.com/ghpvc/?username=osama-yusuf&color=red)
 <a href="https://github.com/osama-yusuf?tab=followers"><img src="https://img.shields.io/github/followers/osama-yusuf?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<!-- **Osama-Yusuf/Osama-Yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
