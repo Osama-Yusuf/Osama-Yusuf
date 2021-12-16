@@ -19,11 +19,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.python.com/" target="_blank"> <img src="https://img.icons8.com/dusk/48/python.png"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/python.png"/> </a> 
     <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/dusk/48/docker.png"/> </a> 
-    <a href="https://www.kubernetes.com" target="_blank"> <img src="https://img.icons8.com/color/48/kubernetes.png"/> </a> 
+    <a href="https://www.kubernetes.io" target="_blank"> <img src="https://img.icons8.com/color/48/kubernetes.png"/> </a> 
     <a href="https://ansible.com" target="_blank"> <img src="https://img.icons8.com/color/48/ansible.png"/> </a> 
-    <a href="https://linux.com" target="_blank"> <img src="https://img.icons8.com/color/48/linux.png"/> </a> 
+    <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/linux.png"/> </a> 
     <a href="https://aws.com/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/amazon-web-services.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
