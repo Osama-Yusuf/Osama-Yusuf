@@ -11,8 +11,6 @@
 - 👯 I’m looking to collaborate with - Other developers in community
 - 🥅 2022 Goal - Finding a DevOps job opportunity as an Intern or Entry level.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
-- ⚡ Fun facts: 
-  - I speak a little bit German
 
 ---
 
