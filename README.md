@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on - getting a    -->
 <!-- - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure. -->
-- 🌱 I’m currently learning - Terraform, Prometheus & Openshift
+- 🌱 I’m currently learning - Terraform & AWS
 - 👯 I’m looking to collaborate with - Other developers in community
 - 🥅 2022 Goal - Finding a DevOps job opportunity as an Intern or Entry level.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
