@@ -17,7 +17,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://opensource.com/resources/what-bash" target="_blank"> <img src="https://img.icons8.com/plasticine/55/000000/bash.png"/> </a>
+    <a href="https://opensource.com/resources/what-bash" target="_blank"> <img src="https://img.icons8.com/plasticine/60/000000/bash.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/python.png"/> </a>  
     <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/dusk/48/docker.png"/> </a> 
     <a href="https://www.kubernetes.io" target="_blank"> <img src="https://img.icons8.com/color/48/kubernetes.png"/> </a> 
