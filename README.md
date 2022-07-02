@@ -69,8 +69,12 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Osama's LinkedIn">
     </a>
-     <a href="https://www.instagram.com/osama_youssf/">
-        <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
+     <a href="https://twitter.com/Osama__Yusuf">
+        <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" 
+            alt="Osama's twitter">
+    </a>
+    <a href="https://www.instagram.com/osama_youssf/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
             alt="Osama's instagram">
     </a>
      <a href="https://stackoverflow.com/users/14504222/osama-mohamed">
