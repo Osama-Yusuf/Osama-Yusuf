@@ -1,4 +1,4 @@
-# Hi there, I'm **Osama Youssef**! <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hi there, I'm **Osama Youssef** !     <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
  A DevOps Engineer, AWS re/Start program graduate - AWS Certified Cloud Practitioner, Eager to expand my knowledge of DevOps tools, and Cloud computing. 🧑
 
 ---
