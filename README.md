@@ -7,8 +7,8 @@
 
 <!-- - 🔭 I’m currently working on - getting a    -->
 <!-- - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure. -->
-- 🌱 I’m currently learning - Terraform & AWS
 <!-- - 👯 I’m looking to collaborate with - Other developers in community -->
+- 🌱 I’m currently learning - Terraform & AWS
 - 🥅 2022 Goal - Strengthen my skills and knowledge in DevOps.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
 
