@@ -8,9 +8,13 @@
 <!-- - 🔭 I’m currently working on - getting a    -->
 <!-- - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure. -->
 <!-- - 👯 I’m looking to collaborate with - Other developers in community -->
-- 🌱 I’m currently learning - Terraform & AWS
+- 🌱 I’m currently learning - Monitoring with ELK Stack.
 - 🥅 2022 Goal - Strengthen my skills and knowledge in DevOps.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
+- I've a passion for developing and automating stuff
+- I've created two chrome extensions: 
+   1- [Water Tracker](https://chrome.google.com/webstore/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj) 
+   2- [AWS Instance Controller](https://chrome.google.com/webstore/detail/aws-instance-controller/fnhnaoldjnhbdbkdaabccgbinnhficbg)
 
 ---
 
