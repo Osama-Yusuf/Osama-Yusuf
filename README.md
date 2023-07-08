@@ -9,7 +9,7 @@
 <!-- - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure. -->
 <!-- - 👯 I’m looking to collaborate with - Other developers in community -->
 - 🌱 I’m currently learning - Monitoring with ELK Stack.
-- 🥅 2022 Goal - Strengthen my skills and knowledge in DevOps.  
+- 🥅 2023 Goal - Strengthen my skills and knowledge in DevOps.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
 - I've a passion for developing and automating stuff
 - I've created two chrome extensions: 
