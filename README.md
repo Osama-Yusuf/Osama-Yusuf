@@ -23,21 +23,22 @@
 ## 🛠️ DevOps Tools and Technologies:
 
 <p align="left"> 
-    <a href="https://opensource.com/resources/what-bash" target="_blank"> <img src="https://img.icons8.com/plasticine/60/000000/bash.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/python.png"/> </a>  
-    <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/dusk/48/docker.png"/> </a> 
-    <a href="https://www.kubernetes.io" target="_blank"> <img width="45px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png"/> </a> 
-    <a href="https://ansible.com" target="_blank"> <img src="https://img.icons8.com/color/48/ansible.png"/> </a> 
-    <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/linux.png"/> </a> 
-    <a href="https://aws.com/" target="_blank"> <img width="45px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"/> </a>  
-    <a href="https://www.openstack.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/openstack.png"/> </a>
-    <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/terraform.png"/> </a>
-    <a href="https://kind.sigs.k8s.io/" target="_blank"> <img width="50px" src="https://kind.sigs.k8s.io/logo/logo.png"/> </a>
-    <a href="https://argoproj.github.io/argo-cd/" target="_blank"> <img width="48px" src="https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/images/argo.webp"/> </a>
-    <a href="https://fluxcd.io/" target="_blank"> <img width="45px" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4"/> </a>
-    <a href="https://www.openshift.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/openshift.png"/> </a>
-    <a href="https://www.sonatype.com/nexus" target="_blank"> <img width="45px" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png"/> </a>
-    <a href="https://k3s.io/" target="_blank"> <img width="48px" src="https://store.cncf.io/cdn/shop/products/K3S-decal.png?v=1619636683"/> </a>
+    <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
+    <a href="https://opensource.com/resources/what-bash" target="_blank" title="AWS EKS"><img width="45px" src="https://static-00.iconduck.com/assets.00/amazon-eks-icon-455x512-0zairb3r.png" alt="Bash"/></a>
+    <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.icons8.com/dusk/48/python.png" alt="Python"/></a>  
+    <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://img.icons8.com/dusk/48/docker.png" alt="Docker"/></a> 
+    <a href="https://www.kubernetes.io" target="_blank" title="Kubernetes"><img width="45px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" alt="Kubernetes"/></a> 
+    <a href="https://ansible.com" target="_blank" title="Ansible"><img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/></a> 
+    <a href="https://ubuntu.com/" target="_blank" title="Ubuntu"><img src="https://img.icons8.com/color/48/linux.png" alt="Ubuntu"/></a> 
+    <a href="https://aws.com/" target="_blank" title="Amazon Web Services"><img width="45px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="Amazon Web Services"/></a>  
+    <a href="https://www.openstack.org/" target="_blank" title="OpenStack"><img src="https://img.icons8.com/color/48/000000/openstack.png" alt="OpenStack"/></a>
+    <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
+    <a href="https://kind.sigs.k8s.io/" target="_blank" title="Kind"><img width="50px" src="https://kind.sigs.k8s.io/logo/logo.png" alt="Kind"/></a>
+    <a href="https://argoproj.github.io/argo-cd/" target="_blank" title="Argo CD"><img width="48px" src="https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/images/argo.webp" alt="Argo CD"/></a>
+    <a href="https://fluxcd.io/" target="_blank" title="Flux"><img width="45px" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="Flux"/></a>
+    <a href="https://www.openshift.com/" target="_blank" title="OpenShift"><img src="https://img.icons8.com/color/48/000000/openshift.png" alt="OpenShift"/></a>
+    <a href="https://www.sonatype.com/nexus" target="_blank" title="Nexus"><img width="45px" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="Nexus"/></a>
+    <a href="https://k3s.io/" target="_blank" title="K3s"><img width="48px" src="https://store.cncf.io/cdn/shop/products/K3S-decal.png?v=1619636683" alt="K3s"/></a>
 </p>
 
 <br><br>
@@ -45,21 +46,24 @@
 ## 💻 Programming and Scripting Languages:
 
 <p align="left">
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
-    <a href="https://sass-lang.com/documentation/syntax" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
-    <a href="https://jquery.com/" target="_blank"> <img width="37px" src="https://th.bing.com/th/id/R.3420e571b3d7a4a348d8fad91e3bfda4?rik=I00IQXt4sQdeMg&riu=http%3a%2f%2fwww.exuberantsolutions.com%2fcourse_logo%2fjquery-icon.png&ehk=XbQJOK2Gm0iFBOpFzOj%2f%2fFzFU3Pl03pskuZTQx%2faxM4%3d&risl=&pid=ImgRaw"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/60/000000/react.png"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img width="45px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"/> </a>
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> </a>
-    <a href="https://vitejs.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vite.png"/> </a>
-    <a href="https://pugjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pug.png"/> </a>
+    <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a> 
+    <a href="https://www.w3.org/html/" target="_blank" title="HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/></a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" title="CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a> 
+    <a href="https://vuejs.org/" target="_blank" title="Vue.js"><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/></a> 
+    <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" title="Node.js"><img width="45px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"/></a> 
+    <a href="https://git-scm.com/" target="_blank" title="Git"><img width="45px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img width="45px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB"/></a>
+    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="PostgreSQL"/></a>
+    <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>  
+    <a href="https://sass-lang.com/documentation/syntax" target="_blank" title="Sass"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/></a> 
+    <a href="https://jquery.com/" target="_blank" title="jQuery"><img width="37px" src="https://th.bing.com/th/id/R.3420e571b3d7a4a348d8fad91e3bfda4?rik=I00IQXt4sQdeMg&riu=http%3a%2f%2fwww.exuberantsolutions.com%2fcourse_logo%2fjquery-icon.png&ehk=XbQJOK2Gm0iFBOpFzOj%2f%2fFzFU3Pl03pskuZTQx%2faxM4%3d&risl=&pid=ImgRaw" alt="jQuery"/></a> 
+    <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
+    <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP"/></a>
+    <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/plasticine/60/000000/react.png" alt="React"/></a>
+    <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="45px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="Next.js"/></a>
+    <a href="https://webpack.js.org/" target="_blank" title="Webpack"><img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack"/></a>
+    <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/></a>
+    <a href="https://pugjs.org/" target="_blank" title="Pug"><img src="https://img.icons8.com/color/48/000000/pug.png" alt="Pug"/></a>
 </p>
 
 ---
