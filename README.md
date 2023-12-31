@@ -22,10 +22,8 @@
 
 ## 🛠️ DevOps Tools and Technologies:
 
-<p align="left"> 
-    <a href="https://opensource.com/resources/what-bash" target="_blank" title="Bash"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
+<p align="left" style="display: flex; align-times: center"> 
     <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img width="45px" src="https://static-00.iconduck.com/assets.00/amazon-eks-icon-455x512-0zairb3r.png" alt="AWS EKS"/></a>
-    <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.icons8.com/dusk/48/python.png" alt="Python"/></a>  
     <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://img.icons8.com/dusk/48/docker.png" alt="Docker"/></a> 
     <a href="https://www.kubernetes.io" target="_blank" title="Kubernetes"><img width="45px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" alt="Kubernetes"/></a> 
     <a href="https://ansible.com" target="_blank" title="Ansible"><img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/></a> 
@@ -43,27 +41,38 @@
 
 <br><br>
 
-## 💻 Programming and Scripting Languages:
+## 💻 Scripting Languages:
 
-<p align="left">
+<p align="left" style="display: flex; align-times: center">
+    <a href="https://opensource.com/resources/what-bash" target="_blank" title="Bash"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
+    <a href="https://www.python.org/" target="_blank" title="Python"><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></a>  
     <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a> 
+</p>
+
+<br>
+
+## 💻 Programming Languages and technologies:
+
+<p align="left" style="display: flex; align-times: center">
+    <a href="https://www.python.org/" target="_blank" title="Python"><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></a>  
+    <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a> 
+    <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" title="Node.js"><img width="45px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"/></a> 
+    <a href="https://www.php.net/" target="_blank" title="PHP"><img width="65px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" alt="PHP"/></a>
+    <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="45px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="Next.js"/></a>
+    <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/plasticine/60/000000/react.png" alt="React"/></a>
+    <a href="https://vuejs.org/" target="_blank" title="Vue.js"><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img width="45px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB"/></a>
+    <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
+    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="PostgreSQL"/></a>
     <a href="https://www.w3.org/html/" target="_blank" title="HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/></a> 
     <a href="https://www.w3schools.com/css/" target="_blank" title="CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a> 
-    <a href="https://vuejs.org/" target="_blank" title="Vue.js"><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/></a> 
-    <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" title="Node.js"><img width="45px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"/></a> 
-    <a href="https://git-scm.com/" target="_blank" title="Git"><img width="45px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img width="45px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB"/></a>
-    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="PostgreSQL"/></a>
     <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>  
     <a href="https://sass-lang.com/documentation/syntax" target="_blank" title="Sass"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/></a> 
+    <a href="https://pugjs.org/" target="_blank" title="Pug"><img src="https://img.icons8.com/color/48/000000/pug.png" alt="Pug"/></a>
     <a href="https://jquery.com/" target="_blank" title="jQuery"><img width="37px" src="https://th.bing.com/th/id/R.3420e571b3d7a4a348d8fad91e3bfda4?rik=I00IQXt4sQdeMg&riu=http%3a%2f%2fwww.exuberantsolutions.com%2fcourse_logo%2fjquery-icon.png&ehk=XbQJOK2Gm0iFBOpFzOj%2f%2fFzFU3Pl03pskuZTQx%2faxM4%3d&risl=&pid=ImgRaw" alt="jQuery"/></a> 
-    <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
-    <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP"/></a>
-    <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/plasticine/60/000000/react.png" alt="React"/></a>
-    <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="45px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="Next.js"/></a>
     <a href="https://webpack.js.org/" target="_blank" title="Webpack"><img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack"/></a>
     <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/></a>
-    <a href="https://pugjs.org/" target="_blank" title="Pug"><img src="https://img.icons8.com/color/48/000000/pug.png" alt="Pug"/></a>
+    <a href="https://git-scm.com/" target="_blank" title="Git"><img width="49px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
 </p>
 
 ---
