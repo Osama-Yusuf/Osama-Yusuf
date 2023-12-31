@@ -23,8 +23,8 @@
 ## 🛠️ DevOps Tools and Technologies:
 
 <p align="left"> 
-    <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
-    <a href="https://opensource.com/resources/what-bash" target="_blank" title="AWS EKS"><img width="45px" src="https://static-00.iconduck.com/assets.00/amazon-eks-icon-455x512-0zairb3r.png" alt="Bash"/></a>
+    <a href="https://opensource.com/resources/what-bash" target="_blank" title="Bash"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
+    <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img width="45px" src="https://static-00.iconduck.com/assets.00/amazon-eks-icon-455x512-0zairb3r.png" alt="AWS EKS"/></a>
     <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.icons8.com/dusk/48/python.png" alt="Python"/></a>  
     <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://img.icons8.com/dusk/48/docker.png" alt="Docker"/></a> 
     <a href="https://www.kubernetes.io" target="_blank" title="Kubernetes"><img width="45px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" alt="Kubernetes"/></a> 
