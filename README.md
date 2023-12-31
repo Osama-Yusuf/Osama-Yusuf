@@ -9,37 +9,57 @@
 <!-- - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure. -->
 <!-- - 👯 I’m looking to collaborate with - Other developers in community -->
 - 🌱 I’m currently learning - Monitoring with ELK Stack.
-- 🥅 2023 Goal - Strengthen my skills and knowledge in DevOps.  
+- 🥅 2024 Goal - Strengthen my skills and knowledge in DevSecOps.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
 - I've a passion for developing and automating stuff
-- I've created two chrome extensions: 
+- I've developed these chrome extensions:
+  <br>
    1- [Water Tracker](https://chrome.google.com/webstore/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj) 
    2- [AWS Instance Controller](https://chrome.google.com/webstore/detail/aws-instance-controller/fnhnaoldjnhbdbkdaabccgbinnhficbg)
+   3- [Kubernetes Manager](https://chromewebstore.google.com/detail/kubernetes-manager/knjlbjpajfdjondmceoppnjehlcimbom)
 
 ---
 
-## 🚀 Languages and Tools:
+## 🛠️ DevOps Tools and Technologies:
 
 <p align="left"> 
     <a href="https://opensource.com/resources/what-bash" target="_blank"> <img src="https://img.icons8.com/plasticine/60/000000/bash.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/python.png"/> </a>  
     <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/dusk/48/docker.png"/> </a> 
-    <a href="https://www.kubernetes.io" target="_blank"> <img src="https://img.icons8.com/color/48/kubernetes.png"/> </a> 
+    <a href="https://www.kubernetes.io" target="_blank"> <img width="45px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png"/> </a> 
     <a href="https://ansible.com" target="_blank"> <img src="https://img.icons8.com/color/48/ansible.png"/> </a> 
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/linux.png"/> </a> 
-    <a href="https://aws.com/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/amazon-web-services.png"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
+    <a href="https://aws.com/" target="_blank"> <img width="45px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"/> </a>  
+    <a href="https://www.openstack.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/openstack.png"/> </a>
+    <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/terraform.png"/> </a>
+    <a href="https://kind.sigs.k8s.io/" target="_blank"> <img width="50px" src="https://kind.sigs.k8s.io/logo/logo.png"/> </a>
+    <a href="https://argoproj.github.io/argo-cd/" target="_blank"> <img width="48px" src="https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/images/argo.webp"/> </a>
+    <a href="https://fluxcd.io/" target="_blank"> <img width="45px" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4"/> </a>
+    <a href="https://www.openshift.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/openshift.png"/> </a>
+    <a href="https://www.sonatype.com/nexus" target="_blank"> <img width="45px" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png"/> </a>
+    <a href="https://k3s.io/" target="_blank"> <img width="48px" src="https://store.cncf.io/cdn/shop/products/K3S-decal.png?v=1619636683"/> </a>
 </p>
-<p align="left"> 
+
+<br><br>
+
+## 💻 Programming and Scripting Languages:
+
+<p align="left">
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
     <a href="https://sass-lang.com/documentation/syntax" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a href="https://jquery.com/" target="_blank"> <img width="37px" src="https://th.bing.com/th/id/R.3420e571b3d7a4a348d8fad91e3bfda4?rik=I00IQXt4sQdeMg&riu=http%3a%2f%2fwww.exuberantsolutions.com%2fcourse_logo%2fjquery-icon.png&ehk=XbQJOK2Gm0iFBOpFzOj%2f%2fFzFU3Pl03pskuZTQx%2faxM4%3d&risl=&pid=ImgRaw"/> </a> 
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> </a>  
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/60/000000/react.png"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img width="45px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"/> </a>
+    <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> </a>
+    <a href="https://vitejs.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vite.png"/> </a>
+    <a href="https://pugjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pug.png"/> </a>
 </p>
 
 ---
