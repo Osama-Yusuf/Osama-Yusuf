@@ -14,9 +14,10 @@
 - I've a passion for developing and automating stuff
 - I've developed these chrome extensions:
   <br>
-   1- [Water Tracker](https://chrome.google.com/webstore/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj) 
-   2- [AWS Instance Controller](https://chrome.google.com/webstore/detail/aws-instance-controller/fnhnaoldjnhbdbkdaabccgbinnhficbg)
-   3- [Kubernetes Manager](https://chromewebstore.google.com/detail/kubernetes-manager/knjlbjpajfdjondmceoppnjehlcimbom)
+   - [DashDot – Plan. Focus. Achieve](https://chromewebstore.google.com/detail/dashdot-%E2%80%93-plan-focus-achi/cchfkkgnanpaeibglebgpjcfbdmdaadf) 
+   - [Water Tracker](https://chrome.google.com/webstore/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj) 
+   - [AWS EC2s](https://chrome.google.com/webstore/detail/aws-instance-controller/fnhnaoldjnhbdbkdaabccgbinnhficbg)
+   - [Kuby: K8s Navigator](https://chromewebstore.google.com/detail/kubernetes-manager/knjlbjpajfdjondmceoppnjehlcimbom)
 
 ---
 
