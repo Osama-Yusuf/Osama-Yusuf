@@ -1,5 +1,22 @@
 # Hi there, I'm **Osama Youssef** !     <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
- A DevOps Engineer, AWS re/Start program graduate - AWS Certified Cloud Practitioner, Eager to expand my knowledge of DevOps tools, and Cloud computing. 🧑
+I'm a Senior DevSecOps Engineer at IBM by day 🧑, and an Indie Hacker by night 👨‍💻.
+
+When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, I'm building SaaS products that make everyday life a little more delightful, productive, stress-free and healthy:
+
+🚀 **[DashDot AI](https://www.dashdot.pro/):** 
+Your personal productivity sanctuary in the browser. Stay focused with a sleek todo list, AI-powered task assistance, flow-state Pomodoro sessions, Track your progress with achievement scores, get smart productivity insights, and vibe to calming ambient sounds – all wrapped in one beautiful extension.
+
+💧 **[Water Tracker](https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj):** 
+Because staying hydrated shouldn't be a chore. Smart, friendly reminders that help you maintain healthy habits throughout your day, one sip at a time.
+
+⚡ **[Workflow Wizard](https://workflowizard.vercel.app/):** 
+Your digital efficiency companion. Streamline your daily tasks with powerful response templates, intelligent mail automation, and soon, a knowledge base that adapts to your needs. Work smarter, not harder.
+
+🌙 **[Al-Quran Tutor](https://quran-tutoring.vercel.app/dashboard):**
+A bridge connecting Sheikhs and students on their Quran learning journey. Smart scheduling with an intuitive calendar, seamless session management, integrated payments, and detailed progress tracking – available in Arabic and English. Making Quran education accessible and organized.
+
+✨ **What's Next?**
+My product lab is buzzing with new ideas – from MVPs taking shape to features being polished. Always cooking up something new to solve real-world problems in clever ways. Stay tuned!
 
 ---
 
