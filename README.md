@@ -3,17 +3,20 @@ I'm a Senior DevSecOps Engineer at IBM by day 🧑, and an Indie Hacker by night
 
 When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, I'm building SaaS products that make everyday life a little more delightful, productive, stress-free and healthy:
 
-🚀 **[DashDot AI](https://www.dashdot.pro/):** 
-Your personal productivity sanctuary in the browser. Stay focused with a sleek todo list, AI-powered task assistance, flow-state Pomodoro sessions, Track your progress with achievement scores, get smart productivity insights, and vibe to calming ambient sounds – all wrapped in one beautiful extension.
+✨ **[MojiMood](https://mojimood-dev.up.railway.app/):**
+Express yourself in style! Drop emojis like confetti, ride the vibe with zen-mode breathing sessions, level up your mood with addictive mini-games, and share your emotional journey with an amazing community. It's like Instagram meets Headspace, but way cooler! 
 
-💧 **[Water Tracker](https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj):** 
-Because staying hydrated shouldn't be a chore. Smart, friendly reminders that help you maintain healthy habits throughout your day, one sip at a time.
+🚀 **[DashDot AI](https://www.dashdot.pro/):** 
+Your productivity powerhouse in the browser! Crush tasks with AI superpowers, flow through work with epic Pomodoro sessions, rack up achievement scores like a game, and unlock productivity insights while vibing to ambient beats – all in one ridiculously good-looking extension.
 
 ⚡ **[Workflow Wizard](https://workflowizard.vercel.app/):** 
 Your digital efficiency companion. Streamline your daily tasks with powerful response templates, intelligent mail automation, and soon, a knowledge base that adapts to your needs. Work smarter, not harder.
 
 🌙 **[Al-Quran Tutor](https://quran-tutoring.vercel.app/dashboard):**
 A bridge connecting Sheikhs and students on their Quran learning journey. Smart scheduling with an intuitive calendar, seamless session management, integrated payments, and detailed progress tracking – available in Arabic and English. Making Quran education accessible and organized.
+
+💧 **[Water Tracker](https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj):** 
+Because staying hydrated shouldn't be a chore. Smart, friendly reminders that help you maintain healthy habits throughout your day, one sip at a time.
 
 ✨ **What's Next?**
 My product lab is buzzing with new ideas – from MVPs taking shape to features being polished. Always cooking up something new to solve real-world problems in clever ways. Stay tuned!
