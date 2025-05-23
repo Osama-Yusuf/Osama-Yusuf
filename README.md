@@ -1,4 +1,4 @@
-# Hi there, I'm **Osama Youssef** !     <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
+# Hi there, I'm <a href="https://www.osamalabs.com" target="_blank"><strong>Osama Youssef</strong></a> !&nbsp; &nbsp; &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
 I'm a Senior DevSecOps Engineer at IBM by day 🧑, and an Indie Hacker by night 👨‍💻.
 
 When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, I'm building SaaS products that make everyday life a little more delightful, productive, stress-free and healthy:
