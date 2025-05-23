@@ -7,7 +7,7 @@ When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, 
 Your productivity powerhouse in the browser! Crush tasks with AI superpowers, flow through work with epic Pomodoro sessions, rack up achievement scores like a game, and unlock productivity insights while vibing to ambient beats – all in one ridiculously good-looking extension.
 
 ⚡ **[Workflow Wizard](https://workflowizard.vercel.app/):** 
-Your digital efficiency companion. Streamline your daily tasks with powerful response templates, intelligent mail automation, and soon, a knowledge base that adapts to your needs. Work smarter, not harder.
+Your digital efficiency companion. Streamline your daily tasks with powerful response templates, intelligent mail automation, and a knowledge base that adapts to your needs. Work smarter, not harder.
 
 🌙 **[Al-Quran Tutor](https://quran-tutoring.vercel.app/dashboard):**
 A bridge connecting Sheikhs and students on their Quran learning journey. Smart scheduling with an intuitive calendar, seamless session management, integrated payments, and detailed progress tracking – available in Arabic and English. Making Quran education accessible and organized.
