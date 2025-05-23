@@ -28,8 +28,8 @@ My product lab is buzzing with new ideas – from MVPs taking shape to features 
 <!-- - 🔭 I’m currently working on - getting a    -->
 <!-- - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure. -->
 <!-- - 👯 I’m looking to collaborate with - Other developers in community -->
-- 🌱 I’m currently learning - Monitoring with ELK Stack.
-- 🥅 2024 Goal - Strengthen my skills and knowledge in DevSecOps.  
+- 🌱 I’m currently learning - Platform Engineering with Kubernetes & IaC.
+- 🥅 2025 Goal - Advance Platform Engineering skills for secure, enhanced developer experience.  
 - 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
 - I've a passion for developing and automating stuff
 - I've developed these chrome extensions:
