@@ -3,9 +3,6 @@ I'm a Senior DevSecOps Engineer at IBM by day 🧑, and an Indie Hacker by night
 
 When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, I'm building SaaS products that make everyday life a little more delightful, productive, stress-free and healthy:
 
-✨ **[MojiMood](https://mojimood-dev.up.railway.app/):**
-Express yourself in style! Drop emojis like confetti, ride the vibe with zen-mode breathing sessions, level up your mood with addictive mini-games, and share your emotional journey with an amazing community. It's like Instagram meets Headspace, but way cooler! 
-
 🚀 **[DashDot AI](https://www.dashdot.pro/):** 
 Your productivity powerhouse in the browser! Crush tasks with AI superpowers, flow through work with epic Pomodoro sessions, rack up achievement scores like a game, and unlock productivity insights while vibing to ambient beats – all in one ridiculously good-looking extension.
 
