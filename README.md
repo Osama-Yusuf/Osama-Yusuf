@@ -3,20 +3,72 @@ I'm a Senior DevSecOps Engineer at IBM by day 🧑, and an Indie Hacker by night
 
 When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, I'm building SaaS products that make everyday life a little more delightful, productive, stress-free and healthy:
 
-🚀 **[DashDot AI](https://www.dashdot.pro/):** 
-Your productivity powerhouse in the browser! Crush tasks with AI superpowers, flow through work with epic Pomodoro sessions, rack up achievement scores like a game, and unlock productivity insights while vibing to ambient beats – all in one ridiculously good-looking extension.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://smart-selection-ai.vercel.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/11698/11698467.png" alt="SmartChoice AI" width="64">
+        <div><strong>SmartChoice AI</strong></div>
+      </a>
+      <sub>Compare choices with AI, fast.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://property-pal-ai.vercel.app" target="_blank">
+        <img src="https://camo.githubusercontent.com/8f996f7c82df4fd571afbdb043b3ec11261cee5700a09179f822af0b0fa4d8a4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f31323130392f31323130393534372e706e67" alt="Property Pal AI" width="64">
+        <div><strong>Property Pal AI</strong></div>
+      </a>
+      <sub>AI insights for Dubai rentals.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://chromewebstore.google.com/detail/speaksurf-ai/oehomnfeldmhplpngfdlmccimbpeipep" target="_blank">
+        <img src="https://lh3.googleusercontent.com/Hf1BfScJ4Pj3v0dK_8DryeKfdbU1GoVly9jnBoNTALWZxg8Al6v_wMjLstzXtHCSSMj26O49uVmd-sU-XV1lGRDp9IE=s120" alt="SpeakSurf AI" width="64">
+        <div><strong>SpeakSurf AI</strong></div>
+      </a>
+      <sub>Control Chrome by voice.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.dashdot.pro/" target="_blank">
+        <img src="https://www.dashdot.pro/_next/image?url=%2Flogo.png&w=256&q=75" alt="DashDot AI" width="64">
+        <div><strong>DashDot AI</strong></div>
+      </a>
+      <sub>Focus, Pomodoro, and insights.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://workflowizard.vercel.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1332/1332015.png" alt="Workflow Wizard" width="64">
+        <div><strong>Workflow Wizard</strong></div>
+      </a>
+      <sub>Templates and smart automation.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://quran-tutoring.vercel.app/dashboard" target="_blank">
+        <img src="https://quran-tutoring.vercel.app/quran.png" alt="Al-Quran Tutor" width="64">
+        <div><strong>Al-Quran Tutor</strong></div>
+      </a>
+      <sub>Schedule and track lessons.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/824/824239.png" alt="Water Tracker" width="64">
+        <div><strong>Water Tracker</strong></div>
+      </a>
+      <sub>Gentle drink-water reminders.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.npmjs.com/package/harmock-gui?activeTab=readme" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/16990/16990245.png" alt="HarMock-GUI" width="64">
+        <div><strong>HarMock-GUI</strong></div>
+      </a>
+      <sub>Transform HAR files into mock APIs.</sub>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
-⚡ **[Workflow Wizard](https://workflowizard.vercel.app/):** 
-Your digital efficiency companion. Streamline your daily tasks with powerful response templates, intelligent mail automation, and a knowledge base that adapts to your needs. Work smarter, not harder.
-
-🌙 **[Al-Quran Tutor](https://quran-tutoring.vercel.app/dashboard):**
-A bridge connecting Sheikhs and students on their Quran learning journey. Smart scheduling with an intuitive calendar, seamless session management, integrated payments, and detailed progress tracking – available in Arabic and English. Making Quran education accessible and organized.
-
-💧 **[Water Tracker](https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj):** 
-Because staying hydrated shouldn't be a chore. Smart, friendly reminders that help you maintain healthy habits throughout your day, one sip at a time.
-
-✨ **What's Next?**
-My product lab is buzzing with new ideas – from MVPs taking shape to features being polished. Always cooking up something new to solve real-world problems in clever ways. Stay tuned!
 
 ---
 
