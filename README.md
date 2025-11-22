@@ -1,10 +1,19 @@
 # Hi there, I'm <a href="https://www.osamalabs.com" target="_blank"><strong>Osama Youssef</strong></a> !&nbsp; &nbsp; &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
 I'm a Senior DevSecOps Engineer at IBM by day 🧑, and an Indie Hacker by night 👨‍💻.
 
+
 When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, I'm building SaaS products that make everyday life a little more delightful, productive, stress-free and healthy:
+
 
 <table>
   <tr>
+    <td align="center" width="33%">
+      <a href="https://terminalbox.vercel.app/" target="_blank">
+        <img src="https://terminalbox.vercel.app/favicon.png" alt="Terminal Box" width="64">
+        <div><strong>Terminal Box</strong></div>
+      </a>
+      <sub>Save, organize, and share your shell commands with ease.</sub>
+    </td>
     <td align="center" width="33%">
       <a href="https://smart-selection-ai.vercel.app/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/11698/11698467.png" alt="SmartChoice AI" width="64">
@@ -19,6 +28,8 @@ When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, 
       </a>
       <sub>AI insights for Dubai rentals.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/speaksurf-ai/oehomnfeldmhplpngfdlmccimbpeipep" target="_blank">
         <img src="https://lh3.googleusercontent.com/Hf1BfScJ4Pj3v0dK_8DryeKfdbU1GoVly9jnBoNTALWZxg8Al6v_wMjLstzXtHCSSMj26O49uVmd-sU-XV1lGRDp9IE=s120" alt="SpeakSurf AI" width="64">
@@ -26,8 +37,6 @@ When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, 
       </a>
       <sub>Control Chrome by voice.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.dashdot.pro/" target="_blank">
         <img src="https://www.dashdot.pro/_next/image?url=%2Flogo.png&w=256&q=75" alt="DashDot AI" width="64">
@@ -42,6 +51,8 @@ When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, 
       </a>
       <sub>Templates and smart automation.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://quran-tutoring.vercel.app/dashboard" target="_blank">
         <img src="https://quran-tutoring.vercel.app/quran.png" alt="Al-Quran Tutor" width="64">
@@ -49,8 +60,6 @@ When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, 
       </a>
       <sub>Schedule and track lessons.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/824/824239.png" alt="Water Tracker" width="64">
@@ -65,7 +74,6 @@ When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, 
       </a>
       <sub>Transform HAR files into mock APIs.</sub>
     </td>
-    <td width="33%"></td>
   </tr>
 </table>
 
