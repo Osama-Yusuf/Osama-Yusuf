@@ -1,106 +1,74 @@
-# Hi there, I'm <a href="https://www.osamalabs.com" target="_blank"><strong>Osama Youssef</strong></a> !&nbsp; &nbsp; &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
-I'm a Senior DevSecOps Engineer at IBM by day 🧑, and an Indie Hacker by night 👨‍💻.
+# Hi, I'm <a href="https://www.osamalabs.com" target="_blank"><strong>Osama Youssef</strong></a> &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
+Senior DevSecOps Engineer at IBM - designing and operating enterprise-scale cloud and on-prem platforms. Outside of IBM, I build SaaS products and tools that make everyday life more productive and stress-free.
 
-When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, I'm building SaaS products that make everyday life a little more delightful, productive, stress-free and healthy:
+---
 
+## Projects
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://terminalbox.vercel.app/" target="_blank">
-        <img src="https://terminalbox.vercel.app/favicon.png" alt="Terminal Box" width="64">
-        <div><strong>Terminal Box</strong></div>
-      </a>
-      <sub>Save, organize, and share your shell commands with ease.</sub>
+    <td align="center" width="160">
+      <a href="https://milo-sq.vercel.app/">
+        <div>🐿️</div><br>
+        <b>Milo</b>
+      </a><br>
+      <sub>Personal finance with an AI squirrel assistant.</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://smart-selection-ai.vercel.app/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/11698/11698467.png" alt="SmartChoice AI" width="64">
-        <div><strong>SmartChoice AI</strong></div>
-      </a>
-      <sub>Compare choices with AI, fast.</sub>
+    <td align="center" width="160">
+      <a href="https://terminalbox.vercel.app/">
+        <img src="https://terminalbox.vercel.app/favicon.png" width="48" height="48" alt="Terminal Box"><br>
+        <b>Terminal Box</b>
+      </a><br>
+      <sub>Save, organize, and share your shell commands.</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://property-pal-ai.vercel.app" target="_blank">
-        <img src="https://camo.githubusercontent.com/8f996f7c82df4fd571afbdb043b3ec11261cee5700a09179f822af0b0fa4d8a4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f31323130392f31323130393534372e706e67" alt="Property Pal AI" width="64">
-        <div><strong>Property Pal AI</strong></div>
-      </a>
-      <sub>AI insights for Dubai rentals.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://chromewebstore.google.com/detail/speaksurf-ai/oehomnfeldmhplpngfdlmccimbpeipep" target="_blank">
-        <img src="https://lh3.googleusercontent.com/Hf1BfScJ4Pj3v0dK_8DryeKfdbU1GoVly9jnBoNTALWZxg8Al6v_wMjLstzXtHCSSMj26O49uVmd-sU-XV1lGRDp9IE=s120" alt="SpeakSurf AI" width="64">
-        <div><strong>SpeakSurf AI</strong></div>
-      </a>
+    <td align="center" width="160">
+      <a href="https://chromewebstore.google.com/detail/speaksurf-ai/oehomnfeldmhplpngfdlmccimbpeipep">
+        <img src="https://lh3.googleusercontent.com/Hf1BfScJ4Pj3v0dK_8DryeKfdbU1GoVly9jnBoNTALWZxg8Al6v_wMjLstzXtHCSSMj26O49uVmd-sU-XV1lGRDp9IE=s120" width="48" height="48" alt="SpeakSurf AI"><br>
+        <b>SpeakSurf AI</b>
+      </a><br>
       <sub>Control Chrome by voice.</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://www.dashdot.pro/" target="_blank">
-        <img src="https://www.dashdot.pro/_next/image?url=%2Flogo.png&w=256&q=75" alt="DashDot AI" width="64">
-        <div><strong>DashDot AI</strong></div>
-      </a>
-      <sub>Focus, Pomodoro, and insights.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://workflowizard.vercel.app/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1332/1332015.png" alt="Workflow Wizard" width="64">
-        <div><strong>Workflow Wizard</strong></div>
-      </a>
-      <sub>Templates and smart automation.</sub>
-    </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://quran-tutoring.vercel.app/dashboard" target="_blank">
-        <img src="https://quran-tutoring.vercel.app/quran.png" alt="Al-Quran Tutor" width="64">
-        <div><strong>Al-Quran Tutor</strong></div>
-      </a>
-      <sub>Schedule and track lessons.</sub>
+    <td align="center" width="160">
+      <a href="https://quran-tutoring.vercel.app/dashboard">
+        <img src="https://quran-tutoring.vercel.app/quran.png" width="48" height="48" alt="Al-Quran Tutor"><br>
+        <b>Al-Quran Tutor</b>
+      </a><br>
+      <sub>Schedule and track Quran lessons.</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/824/824239.png" alt="Water Tracker" width="64">
-        <div><strong>Water Tracker</strong></div>
-      </a>
+    <td align="center" width="160">
+      <a href="https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj">
+        <img src="https://cdn-icons-png.flaticon.com/512/824/824239.png" width="48" height="48" alt="Water Tracker"><br>
+        <b>Water Tracker</b>
+      </a><br>
       <sub>Gentle drink-water reminders.</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://www.npmjs.com/package/harmock-gui?activeTab=readme" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/16990/16990245.png" alt="HarMock-GUI" width="64">
-        <div><strong>HarMock-GUI</strong></div>
-      </a>
+    <td align="center" width="160">
+      <a href="https://www.npmjs.com/package/harmock-gui?activeTab=readme">
+        <img src="https://cdn-icons-png.flaticon.com/512/16990/16990245.png" width="48" height="48" alt="HarMock-GUI"><br>
+        <b>HarMock-GUI</b>
+      </a><br>
       <sub>Transform HAR files into mock APIs.</sub>
     </td>
   </tr>
 </table>
 
+---
+
+## 🙋‍♂️ About me
+
+- 🔐 Specializing in DevSecOps, Platform Engineering, and secure developer experience at scale
+- ☁️ Deep hands-on experience across AWS, OpenShift, and bare-metal Kubernetes environments
+- 🛠️ Passionate about automation, infrastructure-as-code, and building things that solves real problems
+- 💆‍♂️ Outside the terminal — Workout 🏋️‍♂️, Reading 📖, Photography 📸, Meditation 🧘‍♂️
 
 ---
 
-## **🙋‍♂️ About me**
+## 🛠️ DevOps Tools and Technologies
 
-<!-- - 🔭 I’m currently working on - getting a    -->
-<!-- - 🤔 I'm looking for help - Learning Algorithms, Design Patterns, Solid Principles, & Data Structure. -->
-<!-- - 👯 I’m looking to collaborate with - Other developers in community -->
-- 🌱 I’m currently learning - Platform Engineering with Kubernetes & IaC.
-- 🥅 2025 Goal - Advance Platform Engineering skills for secure, enhanced developer experience.  
-- 💆‍♂️ Hobbies - Workout 🏋️‍♂️, Reading 📖, Photography 📸, & Meditation 🧘‍♂️  
-- I've a passion for developing and automating stuff
-- I've developed these chrome extensions:
-  <br>
-   - [DashDot – Plan. Focus. Achieve](https://chromewebstore.google.com/detail/dashdot-%E2%80%93-plan-focus-achi/cchfkkgnanpaeibglebgpjcfbdmdaadf) 
-   - [Water Tracker](https://chrome.google.com/webstore/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj) 
-   - [AWS EC2s](https://chrome.google.com/webstore/detail/aws-instance-controller/fnhnaoldjnhbdbkdaabccgbinnhficbg)
-   - [Kuby: K8s Navigator](https://chromewebstore.google.com/detail/kubernetes-manager/knjlbjpajfdjondmceoppnjehlcimbom)
-
----
-
-## 🛠️ DevOps Tools and Technologies:
-
-<p align="left" style="display: flex; align-times: center"> 
+<p align="left"> 
     <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img width="45px" src="https://static-00.iconduck.com/assets.00/amazon-eks-icon-455x512-0zairb3r.png" alt="AWS EKS"/></a>
     <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://img.icons8.com/dusk/48/docker.png" alt="Docker"/></a> 
     <a href="https://www.kubernetes.io" target="_blank" title="Kubernetes"><img width="45px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" alt="Kubernetes"/></a> 
@@ -117,104 +85,63 @@ When I'm not architecting/implmenting enterprise-scale cloud/on-prem solutions, 
     <a href="https://k3s.io/" target="_blank" title="K3s"><img width="48px" src="https://store.cncf.io/cdn/shop/products/K3S-decal.png?v=1619636683" alt="K3s"/></a>
 </p>
 
-<br><br>
+<br>
 
-## 💻 Scripting Languages:
+## 💻 Languages & Technologies
 
-<p align="left" style="display: flex; align-times: center">
+<p align="left">
     <a href="https://opensource.com/resources/what-bash" target="_blank" title="Bash"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
     <a href="https://www.python.org/" target="_blank" title="Python"><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></a>  
     <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a> 
-</p>
-
-<br>
-
-## 💻 Programming Languages and technologies:
-
-<p align="left" style="display: flex; align-times: center">
-    <a href="https://www.python.org/" target="_blank" title="Python"><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></a>  
-    <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a> 
     <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" title="Node.js"><img width="45px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"/></a> 
-    <a href="https://www.php.net/" target="_blank" title="PHP"><img width="65px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" alt="PHP"/></a>
     <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="45px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="Next.js"/></a>
     <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/plasticine/60/000000/react.png" alt="React"/></a>
-    <a href="https://vuejs.org/" target="_blank" title="Vue.js"><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/></a>
     <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img width="45px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB"/></a>
-    <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
     <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="PostgreSQL"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" title="HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" title="CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a> 
-    <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>  
-    <a href="https://sass-lang.com/documentation/syntax" target="_blank" title="Sass"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/></a> 
-    <a href="https://pugjs.org/" target="_blank" title="Pug"><img src="https://img.icons8.com/color/48/000000/pug.png" alt="Pug"/></a>
-    <a href="https://jquery.com/" target="_blank" title="jQuery"><img width="37px" src="https://th.bing.com/th/id/R.3420e571b3d7a4a348d8fad91e3bfda4?rik=I00IQXt4sQdeMg&riu=http%3a%2f%2fwww.exuberantsolutions.com%2fcourse_logo%2fjquery-icon.png&ehk=XbQJOK2Gm0iFBOpFzOj%2f%2fFzFU3Pl03pskuZTQx%2faxM4%3d&risl=&pid=ImgRaw" alt="jQuery"/></a> 
-    <a href="https://webpack.js.org/" target="_blank" title="Webpack"><img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack"/></a>
-    <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/></a>
     <a href="https://git-scm.com/" target="_blank" title="Git"><img width="49px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+    <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
 </p>
 
 ---
 
-## **📊 Stats**
+## 📊 Stats
 
- <div align="center" style="text-align:center">
+<div align="center">
     <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Osama-Yusuf&show_icons=true&theme=monokai&count_private=true"
-            alt="Osama-Yusuf's Github stats">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Osama-Yusuf&show_icons=true&theme=monokai&count_private=true" alt="Osama-Yusuf's Github stats">
     </a>
     <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Yusuf&theme=monokai"
-            alt="Osama-Yusuf's Github commit streak">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Yusuf&theme=monokai" alt="Osama-Yusuf's Github commit streak">
     </a>
     <a href="https://wakatime.com/@Osama-Yusuf/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight"
-            alt="Osama-Yusuf's wakatime last year stats">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight" alt="Osama-Yusuf's top languages">
     </a>
 </div>
 
 ---
 
-## **📫 How to reach me**
-<div align="center" style="text-align:center">
+## 📫 Reach me
+
+<div align="center">
     <a href="mailto:osama9mohamed5@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Osama's Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/osama--youssef">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Osama's LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-     <a href="https://twitter.com/Osama__Yusuf">
-        <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" 
-            alt="Osama's twitter">
+    <a href="https://twitter.com/Osama__Yusuf">
+        <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="https://www.instagram.com/osama_youssf/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-            alt="Osama's instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-     <a href="https://stackoverflow.com/users/14504222/osama-mohamed">
-        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
-            alt="Osama's StackOverflow">
+    <a href="https://stackoverflow.com/users/14504222/osama-mohamed">
+        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow">
     </a>
-     <a href="https://octolife.vercel.app/Osama-Yusuf">
-        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
-            alt="Osama's octolife">
+    <a href="https://octolife.vercel.app/Osama-Yusuf">
+        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white" alt="OctoLife">
     </a>
-<!--      <a href="https://dev.to/osamayusuf">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-            alt="Osama's dev.to">
-    </a>
-</div> -->
-<!--      <a href="https://profile.codersrank.io/user/osama-yusuf/">
-        <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
-            alt="Osama's CodersRank">
-    </a> -->
-<!--      <a href="https://discord.gg/nZ5jNUm9SS">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-            alt="Osama's discord">
-    </a> -->
-                                    
----
+</div>
 
 <br>
 
