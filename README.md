@@ -1,6 +1,6 @@
-# Hi, I'm <a href="https://www.osamalabs.com" target="_blank"><strong>Osama Youssef</strong></a> &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+# Hi, I'm <a href="https://www.osamalabs.com" target="_blank"><strong>Osama Yusuf</strong></a> &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
-Senior DevSecOps Engineer at IBM - designing and operating enterprise-scale cloud and on-prem platforms. Outside of IBM, I build SaaS products and tools that make everyday life more productive and stress-free.
+Senior DevSecOps Engineer @ Easygenerator · ex-IBM. Building reliable cloud infrastructure by day, SaaS products and productivity tools by night.
 
 ---
 
