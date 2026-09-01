@@ -4,57 +4,58 @@ Senior DevSecOps Engineer @ Easygenerator · ex-IBM. Building reliable cloud inf
 
 ---
 
-## Projects
-
+## ✦ Featured Projects
+ 
 <table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://milo-sq.vercel.app/">
-        <div>🐿️</div><br>
-        <b>Milo</b>
-      </a><br>
-      <sub>Personal finance with an AI squirrel assistant.</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://terminalbox.vercel.app/">
-        <img src="https://terminalbox.vercel.app/favicon.png" width="48" height="48" alt="Terminal Box"><br>
-        <b>Terminal Box</b>
-      </a><br>
-      <sub>Save, organize, and share your shell commands.</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://chromewebstore.google.com/detail/speaksurf-ai/oehomnfeldmhplpngfdlmccimbpeipep">
-        <img src="https://lh3.googleusercontent.com/Hf1BfScJ4Pj3v0dK_8DryeKfdbU1GoVly9jnBoNTALWZxg8Al6v_wMjLstzXtHCSSMj26O49uVmd-sU-XV1lGRDp9IE=s120" width="48" height="48" alt="SpeakSurf AI"><br>
-        <b>SpeakSurf AI</b>
-      </a><br>
-      <sub>Control Chrome by voice.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://quran-tutoring.vercel.app/dashboard">
-        <img src="https://quran-tutoring.vercel.app/quran.png" width="48" height="48" alt="Al-Quran Tutor"><br>
-        <b>Al-Quran Tutor</b>
-      </a><br>
-      <sub>Schedule and track Quran lessons.</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj">
-        <img src="https://cdn-icons-png.flaticon.com/512/824/824239.png" width="48" height="48" alt="Water Tracker"><br>
-        <b>Water Tracker</b>
-      </a><br>
-      <sub>Gentle drink-water reminders.</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://www.npmjs.com/package/harmock-gui?activeTab=readme">
-        <img src="https://cdn-icons-png.flaticon.com/512/16990/16990245.png" width="48" height="48" alt="HarMock-GUI"><br>
-        <b>HarMock-GUI</b>
-      </a><br>
-      <sub>Transform HAR files into mock APIs.</sub>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://gravity-pull.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%AA%90%20Gravity-8B5CF6?style=for-the-badge&labelColor=8B5CF6" alt="Gravity" /></a>
+ 
+**Productivity system for web, CLI &amp; MCP**
+ 
+<sub>Tasks, goals and notes with GitHub/Jira sync and AI-agent tooling.</sub>
+ 
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/CLI-4B5563?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" />
+ 
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/Osama-Yusuf/fleet"><img src="https://img.shields.io/badge/%F0%9F%90%9D%20Fleet-F59E0B?style=for-the-badge&labelColor=F59E0B" alt="Fleet" /></a>
+ 
+**Multi-agent workspace for Claude Code**
+ 
+<sub>Parallel agents, isolated Git worktrees, shared context and coordination.</sub>
+ 
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ 
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/Osama-Yusuf/herald"><img src="https://img.shields.io/badge/%F0%9F%93%AF%20Herald-06B6D4?style=for-the-badge&labelColor=06B6D4" alt="Herald" /></a>
+ 
+**Voice-controlled oversight for agents**
+ 
+<sub>Catch blocked sessions and approve, deny or investigate hands-free.</sub>
+ 
+<img src="https://img.shields.io/badge/Voice-06B6D4?style=flat-square&logo=googleassistant&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+ 
+</td>
+</tr>
 </table>
 
+### Also building
+ 
+<p>
+<a href="https://keepwell-nine.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%A9%BB%20Keepwell-6B7280?style=flat-square&labelColor=6B7280" alt="Keepwell" /></a>
+<a href="https://chromewebstore.google.com/detail/water-tracker/hieljicjokcedlioilnbljjbbocifknj"><img src="https://img.shields.io/badge/%F0%9F%92%A7%20Water%20Tracker-6B7280?style=flat-square&labelColor=6B7280" alt="Water Tracker" /></a>
+<a href="https://www.npmjs.com/package/harmock-gui"><img src="https://img.shields.io/badge/%F0%9F%A7%AA%20HarMock--GUI-6B7280?style=flat-square&labelColor=6B7280" alt="HarMock-GUI" /></a>
+<a href="https://milo-sq.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%90%BF%EF%B8%8F%20Milo-6B7280?style=flat-square&labelColor=6B7280" alt="Milo" /></a>
+<a href="https://terminalbox.vercel.app/"><img src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F%20Terminal%20Box-6B7280?style=flat-square&labelColor=6B7280" alt="Terminal Box" /></a>
+<a href="https://chromewebstore.google.com/detail/speaksurf-ai/oehomnfeldmhplpngfdlmccimbpeipep"><img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F%20SpeakSurf-6B7280?style=flat-square&labelColor=6B7280" alt="SpeakSurf" /></a>
+<a href="https://quran-tutoring.vercel.app/dashboard"><img src="https://img.shields.io/badge/%F0%9F%93%96%20-Quran%20Tutor-6B7280?style=flat-square&labelColor=6B7280" alt="Quran Tutor" /></a>
+</p>
+<sub>🩻 Keepwell versions prescriptions, labs and records &nbsp;·&nbsp; 💧 Water Tracker nags you into hydrating, 600+ users and counting &nbsp;·&nbsp; 🧪 HarMock turns HAR traffic into mock APIs</sub>
+<br>
+<sub>🐿️ Milo is an AI squirrel who judges your spending &nbsp;·&nbsp; ⌨️ Terminal Box saves and shares your shell commands &nbsp;·&nbsp; 🎙️ SpeakSurf drives Chrome by voice &nbsp;·&nbsp; 📖 Quran Tutor schedules and tracks lessons</sub>
+ 
 ---
 
 ## 🙋‍♂️ About me
@@ -62,7 +63,7 @@ Senior DevSecOps Engineer @ Easygenerator · ex-IBM. Building reliable cloud inf
 - 🔐 Specializing in DevSecOps, Platform Engineering, and secure developer experience at scale
 - ☁️ Deep hands-on experience across AWS, OpenShift, and bare-metal Kubernetes environments
 - 🛠️ Passionate about automation, infrastructure-as-code, and building things that solves real problems
-- 💆‍♂️ Outside the terminal — Workout 🏋️‍♂️, Reading 📖, Photography 📸, Meditation 🧘‍♂️
+- 💆‍♂️ Outside the terminal: Workout 🏋️‍♂️, Reading 📖, Photography 📸, Meditation 🧘‍♂️
 
 ---
 
