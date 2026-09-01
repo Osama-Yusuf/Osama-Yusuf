@@ -1,6 +1,4 @@
-# Hi, I'm <a href="https://www.osamalabs.com" target="_blank"><strong>Osama Yusuf</strong></a> &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
-
-Senior DevSecOps Engineer @ Easygenerator · ex-IBM. Building reliable cloud infrastructure by day, SaaS products and productivity tools by night.
+<a href="https://www.osamalabs.com" target="_blank"><img src="./assets/header.svg" alt="Osama Yusuf — Senior DevSecOps Engineer" width="100%"></a>
 
 ---
 
@@ -55,98 +53,98 @@ Senior DevSecOps Engineer @ Easygenerator · ex-IBM. Building reliable cloud inf
 <sub>🩻 Keepwell versions prescriptions, labs and records &nbsp;·&nbsp; 💧 Water Tracker nags you into hydrating, 600+ users and counting &nbsp;·&nbsp; 🧪 HarMock turns HAR traffic into mock APIs</sub>
 <br>
 <sub>🐿️ Milo is an AI squirrel who judges your spending &nbsp;·&nbsp; ⌨️ Terminal Box saves and shares your shell commands &nbsp;·&nbsp; 🎙️ SpeakSurf drives Chrome by voice &nbsp;·&nbsp; 📖 Quran Tutor schedules and tracks lessons</sub>
+
+---
+
+## What I Work On
+
+| Area | Focus |
+|---|---|
+| **Kubernetes Platform** | EKS lifecycle, upgrades, node capacity, Karpenter, KEDA and workload reliability |
+| **Infrastructure as Code** | Terraform-driven infrastructure across isolated environments and AWS services |
+| **Reliability & Observability** | CloudWatch, Prometheus, Grafana, alerting and production incident investigation |
+| **DevSecOps** | IAM, workload identity, secrets, SOC 2 controls and secure delivery |
+| **Platform Engineering** | Automation, reusable infrastructure patterns and reducing developer toil |
+| **Cost & Efficiency** | Spot capacity, autoscaling, storage lifecycle and infrastructure optimization |
+
+<sub>🧑‍🏫 CKAD certified · co-led Easygenerator's SOC 2 compliance · previously mentored DevOps engineers at IBM</sub>
+<br>
+<sub>Outside the terminal: 🏃 Running · 📸 Landscape & abstract photography · 📖 Psychology books · 🧘 Meditation</sub>
+
+---
+
+## Platform & Infrastructure
+
+<sub><b>CURRENT CORE</b></sub>
+
+<p>
+<img height="28" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS" />
+<img height="28" src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square" alt="Amazon EKS" />
+<img height="28" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img height="28" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+<img height="28" src="https://img.shields.io/badge/Terraform_Cloud-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Cloud" />
+<img height="28" src="https://img.shields.io/badge/Karpenter-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Karpenter" />
+<img height="28" src="https://img.shields.io/badge/KEDA-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="KEDA" />
+<img height="28" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+<img height="28" src="https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=flux&logoColor=white" alt="Flux" />
+<img height="28" src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" alt="HashiCorp Vault" />
+</p>
+
+<sub><b>RELIABILITY, DELIVERY & SECURITY</b></sub>
+
+<p>
+<img height="28" src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="CloudWatch" />
+<img height="28" src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square" alt="AWS IAM" />
+<img height="28" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img height="28" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+<img height="28" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img height="28" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img height="28" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+<sub><b>BROADER PLATFORM EXPERIENCE</b></sub>
+
+<p>
+<img height="28" src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
+<img height="28" src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack" />
+<img height="28" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+<img height="28" src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+<img height="28" src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black" alt="K3s" />
+<img height="28" src="https://img.shields.io/badge/Kind-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kind" />
+<img height="28" src="https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Nexus" />
+<img height="28" src="https://img.shields.io/badge/Tekton-FD495C?style=flat-square&logo=tekton&logoColor=white" alt="Tekton" />
+<img height="28" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+<img height="28" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+</p>
+
+---
+
+## Side Quest Stack
  
----
-
-## 🙋‍♂️ About me
-
-- 🔐 Specializing in DevSecOps, Platform Engineering, and secure developer experience at scale
-- ☁️ Deep hands-on experience across AWS, OpenShift, and bare-metal Kubernetes environments
-- 🛠️ Passionate about automation, infrastructure-as-code, and building things that solves real problems
-- 💆‍♂️ Outside the terminal: Workout 🏋️‍♂️, Reading 📖, Photography 📸, Meditation 🧘‍♂️
-
----
-
-## 🛠️ DevOps Tools and Technologies
-
-<p align="left"> 
-    <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img width="45px" src="https://static-00.iconduck.com/assets.00/amazon-eks-icon-455x512-0zairb3r.png" alt="AWS EKS"/></a>
-    <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://img.icons8.com/dusk/48/docker.png" alt="Docker"/></a> 
-    <a href="https://www.kubernetes.io" target="_blank" title="Kubernetes"><img width="45px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" alt="Kubernetes"/></a> 
-    <a href="https://ansible.com" target="_blank" title="Ansible"><img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/></a> 
-    <a href="https://ubuntu.com/" target="_blank" title="Ubuntu"><img src="https://img.icons8.com/color/48/linux.png" alt="Ubuntu"/></a> 
-    <a href="https://aws.com/" target="_blank" title="Amazon Web Services"><img width="45px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="Amazon Web Services"/></a>  
-    <a href="https://www.openstack.org/" target="_blank" title="OpenStack"><img src="https://img.icons8.com/color/48/000000/openstack.png" alt="OpenStack"/></a>
-    <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
-    <a href="https://kind.sigs.k8s.io/" target="_blank" title="Kind"><img width="50px" src="https://kind.sigs.k8s.io/logo/logo.png" alt="Kind"/></a>
-    <a href="https://argoproj.github.io/argo-cd/" target="_blank" title="Argo CD"><img width="48px" src="https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/images/argo.webp" alt="Argo CD"/></a>
-    <a href="https://fluxcd.io/" target="_blank" title="Flux"><img width="45px" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="Flux"/></a>
-    <a href="https://www.openshift.com/" target="_blank" title="OpenShift"><img src="https://img.icons8.com/color/48/000000/openshift.png" alt="OpenShift"/></a>
-    <a href="https://www.sonatype.com/nexus" target="_blank" title="Nexus"><img width="45px" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="Nexus"/></a>
-    <a href="https://k3s.io/" target="_blank" title="K3s"><img width="48px" src="https://store.cncf.io/cdn/shop/products/K3S-decal.png?v=1619636683" alt="K3s"/></a>
-</p>
-
-<br>
-
-## 💻 Languages & Technologies
-
-<p align="left">
-    <a href="https://opensource.com/resources/what-bash" target="_blank" title="Bash"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
-    <a href="https://www.python.org/" target="_blank" title="Python"><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"/></a>  
-    <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a> 
-    <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" title="Node.js"><img width="45px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js"/></a> 
-    <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="45px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="Next.js"/></a>
-    <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/plasticine/60/000000/react.png" alt="React"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img width="45px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB"/></a>
-    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="PostgreSQL"/></a>
-    <a href="https://git-scm.com/" target="_blank" title="Git"><img width="49px" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
-    <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/></a>
-</p>
+| | |
+|---|---|
+| **Web** | TypeScript · React · NestJS · Tailwind · shadcn/ui · Vite · Prisma |
+| **Mobile** | React Native · Expo · Convex |
+| **Desktop** | TypeScript · React · Electron |
+| **CLI** | Go · Cobra · Bubble Tea |
+ 
+<sub><code># TODO: stop starting new side projects</code></sub>
 
 ---
 
-## 📊 Stats
-
+## Connect
+ 
+<sub>Happy to talk Kubernetes, platform engineering, or agent tooling.</sub>
+ 
 <div align="center">
-    <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Osama-Yusuf&show_icons=true&theme=monokai&count_private=true" alt="Osama-Yusuf's Github stats">
-    </a>
-    <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Yusuf&theme=monokai" alt="Osama-Yusuf's Github commit streak">
-    </a>
-    <a href="https://wakatime.com/@Osama-Yusuf/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Yusuf&langs_count=5&theme=tokyonight" alt="Osama-Yusuf's top languages">
-    </a>
+<a href="https://www.osamalabs.com/"><img height="34" src="https://img.shields.io/badge/osamalabs.com-8B5CF6?style=for-the-badge&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/osama--youssef/"><img height="34" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:osama9mohamed5@gmail.com"><img height="34" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://twitter.com/Osama__Yusuf"><img height="34" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+ 
+<br><br>
+ 
+<a href="https://github.com/osama-yusuf?tab=followers"><img height="28" src="https://img.shields.io/github/followers/osama-yusuf?style=for-the-badge&logo=github&label=Followers&color=8B5CF6&labelColor=0D1117" alt="GitHub followers" /></a>
+ 
 </div>
 
----
-
-## 📫 Reach me
-
-<div align="center">
-    <a href="mailto:osama9mohamed5@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/osama--youssef">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/Osama__Yusuf">
-        <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://www.instagram.com/osama_youssf/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://stackoverflow.com/users/14504222/osama-mohamed">
-        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow">
-    </a>
-    <a href="https://octolife.vercel.app/Osama-Yusuf">
-        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white" alt="OctoLife">
-    </a>
-</div>
-
-<br>
-
-_Made by **[@Osama-Yusuf](https://github.com/osama-yusuf)**_
-
-![](https://komarev.com/ghpvc/?username=osama-yusuf&color=red)
-<a href="https://github.com/osama-yusuf?tab=followers"><img src="https://img.shields.io/github/followers/osama-yusuf?label=Followers&style=social" alt="GitHub Badge"></a>
